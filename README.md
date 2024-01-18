@@ -1,4 +1,4 @@
-### Olá! Me chamo Nicolas Melim e sou estudando de Análise e desenvolvimento de sistemas ✌️👨‍💻
+### Olá! Me chamo Nicolas Melim e sou estudante de Análise e desenvolvimento de sistemas ✌️👨‍💻
 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-melim-80537b213/)
 [![INSTA](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_nmelim_/)
