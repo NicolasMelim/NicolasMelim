@@ -13,7 +13,8 @@
 
 ![NicolasMelim GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasMelim&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasMelim&hide_progress=true)
-## Tecnologias Front-End
+
+### Tecnologias Front-End
 
 <div style="display: inline_block"><br/> 
   <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -21,8 +22,19 @@
     <img aling="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div>
 
-## Tecnologia Back-End
+
+### Tecnologia Back-End
+<div style="display: inline_block"><br/> 
+ <img aling="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
+</div>
+
+
+## Tecnologia Back-End Bootcamp
 
 <div style="display: inline_block"><br/> 
-  <img aling="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img aling="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+ <img aling="center" alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+ <img aling="center" alt="post" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> 
+ <img aling="center" alt="mongo" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> 
+ <img aling="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
