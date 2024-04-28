@@ -4,7 +4,7 @@
 [![INSTA](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_nmelim_/)
 [![Meu Perfil na DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-0077B5?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/melimnicolas)
  
-### Fui aceito no Bootcamp Santander 2024 para me tornar um Desenvolvedor Java. Estou me dedicando ao máximo para entrar nesse mercado de desenvovedor de Software ♨️ 
+### Fui aceito no Bootcamp Santander 2024 para me tornar um Desenvolvedor Java. Estou me dedicando ao máximo para entrar nesse mercado de desenvolvedor de Software ♨️ 
  ### Vou postar todos os meus projetos e estudos aqui. Clicando no link da DIO você poderá ver todas as minhas conquistas e projetos do básico ao avançado 
  
 
